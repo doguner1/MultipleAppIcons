@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "sticker-logo-football-club-trabzonspor-autocollant-foot-497_1024x1024.jpeg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
