@@ -20,13 +20,15 @@ Bu projeyi kullanmak için:
 
 ## Ekran Görüntüleri
 
-![Ekran Görüntüsü 1](https://github.com/doguner1/GitImageData/blob/main/MultipleAppIcons/IMG_0353.PNG?raw=true)
-![Ekran Görüntüsü 2](https://github.com/doguner1/GitImageData/blob/main/MultipleAppIcons/IMG_0354.PNG?raw=true)
-![Ekran Görüntüsü 3](https://github.com/doguner1/GitImageData/blob/main/MultipleAppIcons/IMG_0355.PNG?raw=true)
-![Ekran Görüntüsü 4](https://github.com/doguner1/GitImageData/blob/main/MultipleAppIcons/IMG_0356.PNG?raw=true)
-![Ekran Görüntüsü 5](https://github.com/doguner1/GitImageData/blob/main/MultipleAppIcons/IMG_0357.jpg?raw=true)
-![Ekran Görüntüsü 6](https://github.com/doguner1/GitImageData/blob/main/MultipleAppIcons/IMG_0358.PNG?raw=true)
-![Ekran Görüntüsü 7](https://github.com/doguner1/GitImageData/blob/main/MultipleAppIcons/IMG_0359.jpg?raw=true)
+![Ekran Görüntüsü 1](https://github.com/doguner1/GitImageData/blob/main/MultipleAppIcons/Ekran%20Resmi%202024-06-13%2019.41.31.png?raw=true)
+![Ekran Görüntüsü 2](https://github.com/doguner1/GitImageData/blob/main/MultipleAppIcons/Ekran%20Resmi%202024-06-13%2019.41.36.png?raw=true)
+![Ekran Görüntüsü 3](https://github.com/doguner1/GitImageData/blob/main/MultipleAppIcons/Ekran%20Resmi%202024-06-13%2019.41.45.png?raw=true)
+![Ekran Görüntüsü 4](https://github.com/doguner1/GitImageData/blob/main/MultipleAppIcons/Ekran%20Resmi%202024-06-13%2019.41.53.png?raw=true)
+![Ekran Görüntüsü 5](https://github.com/doguner1/GitImageData/blob/main/MultipleAppIcons/Ekran%20Resmi%202024-06-13%2019.41.59.png?raw=true)
+![Ekran Görüntüsü 6](https://github.com/doguner1/GitImageData/blob/main/MultipleAppIcons/Ekran%20Resmi%202024-06-13%2019.42.06.png?raw=true)
+![Ekran Görüntüsü 7](https://github.com/doguner1/GitImageData/blob/main/MultipleAppIcons/IMG_0357.jpg?raw=true)
+![Ekran Görüntüsü 8](https://github.com/doguner1/GitImageData/blob/main/MultipleAppIcons/Ekran%20Resmi%202024-06-13%2019.42.15.png?raw=true)
+![Ekran Görüntüsü 9](https://github.com/doguner1/GitImageData/blob/main/MultipleAppIcons/IMG_0359.jpg?raw=true)
 
 ## Katkıda Bulunanlar
 
