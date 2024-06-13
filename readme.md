@@ -34,8 +34,4 @@ Bu projeyi kullanmak için:
 
 ## Katkıda Bulunanlar
 
-Bu proje, 13 Haziran 2024 tarihinde [qwerty](https://github.com/qwerty) tarafından oluşturulmuştur.
-
-## Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakınız.
+Bu proje [doguner1](https://github.com/qwerty) tarafından oluşturulmuştur.
