@@ -30,7 +30,7 @@ struct Appearance: View {
                             Text("Uygulama Simgesi")
                                 .overlay(
                                     GeometryReader{ geometry in
-                                        if let imageData = imageData, let uiImage = UIImage(data: imageData){
+                                        if let imageData = imageData, let uiImage = UIImage(data: imageData){ //imageDate doluluk kontrolünden sonra, datadaki veriyi image haline çevirirek çıktı alıyoruz
                                             Image(uiImage: uiImage)
                                                 .resizable()
                                                 .frame(width: 40,height: 40)

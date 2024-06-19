@@ -7,8 +7,8 @@
 
 import SwiftUI
 
-// circlebadge circlebadge.fil
-struct AppIconView: View {
+
+struct AppIconView: View { //Değişim İşlemi tam olarak burada başlıyor.
     @AppStorage("active_icon") var activeAppIcon: String = "AppIcon"
     @AppStorage("imageData") var imageData: Data?
     var stringDizi = [
@@ -41,11 +41,8 @@ struct AppIconView: View {
                                         activeAppIcon = "AppIcon"
                                     }
                                     UIApplication.shared.setAlternateIconName(activeAppIcon)
-                                   
                                 }
-                            
                         }.padding().background(Color.primary.opacity(0.06)).cornerRadius(20)
-                        
                     }
                 }
             VStack{
